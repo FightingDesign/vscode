@@ -1,0 +1,21 @@
+{
+  "name": "fighting-design-theme",
+  "displayName": "fighting-design-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fighting-design-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fighting-design-theme-color-theme.json"
+      }
+    ]
+  }
+}
